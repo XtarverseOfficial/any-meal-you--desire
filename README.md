@@ -1,2 +1,2 @@
-# any-meal-you--desire
+# any-meal-you-desire
 It is a mod for Minecraft.
